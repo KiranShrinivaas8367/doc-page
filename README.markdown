@@ -1,4 +1,4 @@
-# Product-page
+# Documentation-page
 
 ### Project - @ [freecodecamp](https://www.freecodecamp.org/)
 ### Responsive Web Design [Documentation-page](https://doc-page.netlify.app/)
